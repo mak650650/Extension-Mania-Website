@@ -298,15 +298,22 @@ color: #fff;
       
   }
   .about-info-container{
-      width: 75%;
+      width: 70%;
       
   }
   .about-1{
-      padding: 40px 50px 40px 50px;
+	    padding: 22px 50px 22px 50px;
   }
-
- 
-}
+  .about-3{
+      padding: 45px 50px 45px 50px;
+  }
+ .about-1:hover{
+	 padding: 22px 45px 22px 45px;
+ }
+.about-3:hover{
+	padding: 45px 45px 45px 45px;
+ }
+}	
 @media screen and (max-width: 1790px) and (min-width: 1650px){
   .about-info-container{
       display: flex;
