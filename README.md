@@ -1,4 +1,4 @@
-# Extension-Mania-Website(static)
+# Extension-Mania-Website
 ### link:- https://extension-mania.netlify.app/
 people envovled in this project:-
 <br/>
