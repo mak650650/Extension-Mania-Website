@@ -2,9 +2,9 @@
 ### link:- https://extension-mania.netlify.app/
 people envovled in this project:-
 <br/>
-1.[Harsh Singh](https://github.com/harsh903)
+1.[Harsh Singh](https://github.com/harsh903)  --> Management
 <br/>
-2.[Swatej Reddy](https://github.com/SwatejReddy)
+2.[Swatej Reddy](https://github.com/SwatejReddy)  --> Development
 
 
 <br>
